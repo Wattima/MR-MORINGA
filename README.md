@@ -11,7 +11,7 @@
 Meta
 ----
 Author:
-   * **Joseph Wambua** - *Initial work* - [mutuajoseph](https://github.com/mutuajoseph)
+   * **Daryl Wattima** - *Initial work* - [Wattima](https://github.com/Wattima)
 
 
 Status:
